@@ -98,42 +98,6 @@ export default {
             name: '默认',
             value: 100
           },
-          {
-            name: '南阳',
-            value: 120
-          },
-          {
-            name: '西峡',
-            value: 78
-          },
-          {
-            name: '驻马店',
-            value: 66
-          },
-          {
-            name: '新乡',
-            value: 80
-          },
-          {
-            name: '新乡2',
-            value: 80
-          },
-          {
-            name: '新乡3',
-            value: 80
-          },
-          {
-            name: '新乡4',
-            value: 80
-          },
-          {
-            name: '新乡5',
-            value: 80
-          },
-          {
-            name: '新乡6',
-            value: 80
-          }
         ],
         carousel: 'single',
         unit: '类'
